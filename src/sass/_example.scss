@@ -27,6 +27,10 @@
   background-position: center;
 }
 
+body {
+  scroll-behavior: smooth;
+}
+
 .gallery {
   display: grid;
   column-gap: 15px;
